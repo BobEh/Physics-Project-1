@@ -1,0 +1,7 @@
+assets/models/bun_zipper_XYZ_n.ply
+assets/models/Sky_Pirate_Combined_xyz_n.ply
+assets/models/Terrain_XYZ_n.ply
+assets/models/Cube_1_Unit_from_origin_XYZ_n.ply
+assets/models/Sphere_Radius_1_XYZ_n.ply
+assets/models/plain_box_XYZ_n.ply
+assets/models/Ramp_XYZ_n.ply
